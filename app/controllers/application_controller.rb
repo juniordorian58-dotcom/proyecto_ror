@@ -4,4 +4,7 @@
   def hola
 render html: "hola, linda noche!"
 end
+ def junior
+render html: "hola, soy Junior!"
+end
 end
